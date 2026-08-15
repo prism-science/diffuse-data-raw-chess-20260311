@@ -1,0 +1,1 @@
+../../.git/annex/objects/kg/32/MD5E-s2968--2bc04a6c7b40b6aefa833a42f056e2ab.spec/MD5E-s2968--2bc04a6c7b40b6aefa833a42f056e2ab.spec
